@@ -14,7 +14,7 @@
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
-    "yuya.ts.odata-client": "^1.0.1"
+    "yuya.ts.odata-client": "^1.0.3"
   },
   "devDependencies": {
     "@types/jest": "^23.1.4",

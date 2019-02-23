@@ -8268,10 +8268,10 @@ yorkie@^2.0.0:
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
 
-yuya.ts.odata-client@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/yuya.ts.odata-client/-/yuya.ts.odata-client-1.0.1.tgz#62ec3b3d402ccf08ae0ab64d1b8ac13ed3b30eab"
-  integrity sha512-0/KRfiIgNo2xXKq6/8G6wTg5Yi16bxiQ9bFbogrwpZY19Xm0lIfjxTnK23hawPll+Zwehkyq4PoWUWMaHNwYNA==
+yuya.ts.odata-client@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/yuya.ts.odata-client/-/yuya.ts.odata-client-1.0.3.tgz#c0730390ca71423c0ddf9b9fe9277d7a1b672fed"
+  integrity sha512-jT+/xBynGiWlxVMIA9VWBCgIU+4Zp25Pl/Q+oaO9cmwV//K+DSZbi6gS7q+pgVgDEsIqaqnUkGUnXKg99U6cVg==
   dependencies:
     axios "^0.18.0"
     lodash "^4.17.11"
