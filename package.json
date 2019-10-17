@@ -11,7 +11,7 @@
   "dependencies": {
     "vue": "^2.6.6",
     "vue-class-component": "^7.1.0",
-    "vue-property-decorator": "^7.0.0",
+    "vue-property-decorator": "^8.3.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
     "yuya.ts.odata-client": "^1.0.3"
