@@ -17,7 +17,7 @@
     "yuya.ts.odata-client": "^1.0.3"
   },
   "devDependencies": {
-    "@types/jest": "^23.1.4",
+    "@types/jest": "^26.0.0",
     "@vue/cli-plugin-typescript": "^3.4.0",
     "@vue/cli-plugin-unit-jest": "^3.4.0",
     "@vue/cli-service": "^3.4.0",
